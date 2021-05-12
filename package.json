@@ -1,0 +1,11 @@
+{
+  "name": "web-designer-challenge",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+  "node-sass": "^6.0.0"
+  },
+  "scripts": {
+    "scss": "node-sass styles.scss styles.css"
+  }
+}
