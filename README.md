@@ -20,7 +20,7 @@ Para realizar um teste prático e rápido, disponibilizei o link acima via netli
 ## Objetivos alcançados e não alcançados
 
 - Alcançados:
-    - Reposnsividade dos elementos.
+    - Responsividade dos elementos.
     - Código totalmente em inglês.
     - Layout desenvolvido conforme a proposta.
     - HTML semântico.
@@ -28,8 +28,8 @@ Para realizar um teste prático e rápido, disponibilizei o link acima via netli
     - Nenhum framework foi utilizado.
 
 - Não alcançados
-    - Reponsividade dos cards de tarefas.
-    
+    - Responsividade dos cards de tarefas.
+
 
 ## Melhorias
 
