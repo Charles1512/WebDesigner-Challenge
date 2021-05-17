@@ -4,14 +4,22 @@ O objetivo deste projeto é desenvolver um frontEnd responsivo para testar meus 
 
 ## Como configurar a aplicação
 
+Para utilizar o SASS,é necessário que tenha instalado o node na sua máquina e executar o comando yarn para instalar as dependências do projeto.
 
+Para executar o comando para gerar o arquivo .css basta digitar yarn scss que ele irá atualizar aquele arquivo.
+
+Para abrir o arquivo HTML, eu utilizei o Live Server.
 
 ## Visualização
+
+https://heuristic-curie-7ef431.netlify.app/
+
+Para realizar um teste prático e rápido, disponibilizei o link acima via netlify.
 
 
 
 ## Melhorias
 
+- Versão responsiva dos cards de tarefas.
+- Adicionar JavaScript para gerar os cards de forma automática.
 
-
-Todo feedback é bem-vindo. 

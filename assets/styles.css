@@ -86,8 +86,7 @@ fieldset {
     border-radius: 8px;
     border: 0;
     margin-left: 13px;
-    text-indent: 12px;
-    background: #FFFFFF; }
+    text-indent: 12px; }
 
 .main-page {
   margin: 20px 180px 20px 180px; }
@@ -337,11 +336,11 @@ fieldset {
     text-align: center; }
   .form-page {
     flex-direction: column;
-    margin: -60px 5px 0 5px;
+    margin: -60px 20px 0 20px;
     height: 150px;
     justify-content: space-evenly; }
   .main-page {
-    margin: 20px 50px 20px 50px; }
+    margin: 20px 80px 20px 80px; }
     .main-page ul {
       justify-content: center; }
   .form-page-signup {
