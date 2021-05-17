@@ -17,6 +17,19 @@ https://heuristic-curie-7ef431.netlify.app/
 Para realizar um teste prático e rápido, disponibilizei o link acima via netlify.
 
 
+## Objetivos alcançados e não alcançados
+
+- Alcançados:
+    - Reposnsividade dos elementos.
+    - Código totalmente em inglês.
+    - Layout desenvolvido conforme a proposta.
+    - HTML semântico.
+    - Utilização de pré-processador.
+    - Nenhum framework foi utilizado.
+
+- Não alcançados
+    - Reponsividade dos cards de tarefas.
+    
 
 ## Melhorias
 
