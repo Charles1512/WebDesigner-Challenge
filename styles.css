@@ -342,6 +342,7 @@ a {
   .form-page section input {
     width: 230px !important; }
   .main-page ul li {
+    width: 300px !important;
     height: 250px !important; }
   .badge-first {
     margin: -150px 0 0 -250px !important; } }
@@ -361,7 +362,7 @@ a {
     .main-page ul {
       justify-content: center; }
       .main-page ul li {
-        width: 100%;
+        width: 350px;
         height: 220px;
         display: flex;
         align-items: center;

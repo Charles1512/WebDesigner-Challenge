@@ -293,6 +293,7 @@ a {
     .main-page {      
         ul {
             li {
+                width: 300px !important;
                 height: 250px !important;
             }
         }
@@ -319,7 +320,7 @@ a {
         ul {
             justify-content: center;
             li {
-                @include styleinfo(100%, 220px);
+                @include styleinfo(350px, 220px);
                 @include flexbox(space-evenly, row, center);
                 margin: 50px 0 10px 0;
                 padding: 4px;
